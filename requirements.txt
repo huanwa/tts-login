@@ -1,0 +1,4 @@
+flask
+edge_tts
+anyio
+boto3
